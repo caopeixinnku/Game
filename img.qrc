@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>pic/bg.png</file>
+        <file>pic/zuo1.png</file>
+        <file>pic/monster_front.png</file>
+    </qresource>
+</RCC>
